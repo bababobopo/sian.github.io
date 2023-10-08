@@ -13,30 +13,45 @@
     <ul>
       <li><a href="#簡介">簡介</a></li>
       <li><a href="#測驗項目">測驗項目</a></li>
-      <li><a href="#製作注意事項">製作注意事項</a></li>
+      <li><a href="#製作注意事項">各項製作心得</a></li>
     </ul>
   </nav>
   <div id="簡介">
     <h2>簡介</h2>
     <p>烘焙丙級一共分為三個子項目，分別是西點蛋糕、麵包、餅乾，採集測即評。分為學科及術科，兩者皆須滿60分才算通過。</p>
-    <a href="https://www.pressplay.cc/project/7CDADD646D861A2BFB42BE457FCB4078/articles/EE8009B504F089CDF423FB495F6A8E08" target="_blank">了解更多</a>
-    <h3>測驗項目</h3>
+    <a href="https://www.pressplay.cc/project/7CDADD646D861A2BFB42BE457FCB4078/articles/EE8009B504F089CDF423FB495F6A8E08" target="_blank">了解更多(丙級證照攻略懶人包)</a>
+    <h2>測驗項目、題目組合</h2>
+    <h3>項目</h3>
+    <p>7個項目</p>
     <ul>
-      <li>Arctos</li>
-      <li>Collarus</li>
-      <li>Horribilis</li>
-      <li>Nelsoni (extinct)</li>
+      <li>A 巧克力戚風蛋糕捲</li>
+      <li>B 大理石蛋糕</li>
+      <li>C 海綿蛋糕</li>
+      <li>D 香草天使蛋糕</li>
+      <li>E 蒸烤雞蛋牛奶布丁</li>
+      <li>G 檸檬布丁派</li>
     </ul>
-    <h3>Features</h3>
-    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
-  </div>
-  <div id="habitat">
-    <h2>Habitat</h2>
-    <h3>Countries with Large Brown Bear Populations</h3>
+    <h3>組合</h3>
+    <p>八種組合</p>
     <ol>
-      <li>Russia</li>
-      <li>United States</li>
-      <li>Canada</li>
+      <li>A+F</li>
+      <li>C+F</li>
+      <li>A+G</li>
+      <li>D+E</li>
+      <li>B+E</li>
+      <li>C+G</li>
+      <li>C+G</li>
+      <li>D+F</li>
+    </ol>
+  </div>
+  <div id="製作注意事項">
+    <h2>各項製作心得</h2>
+    <h3>A 巧克力戚風蛋糕捲</h3>
+    <p>為避免表皮破裂影響外觀分數</p>
+    <ol>
+      <li>注意捲起時動作</li>
+      <li>內部塗抹需均勻，但在中間及兩側可多塗一些</li>
+      <li>表皮可用190度多烘烤10分鐘使表面不易黏在紙上</li>
     </ol>
     <h3>Countries with Small Brown Bear Populations</h3>
     <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
