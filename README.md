@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+  <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
   <nav>
     <a href="./README.md">Brown Bear</a>
     <a href="./nunber2.md">About Me</a>
