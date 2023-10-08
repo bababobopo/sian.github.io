@@ -53,6 +53,12 @@
       <li>內部塗抹需均勻，但在中間及兩側可多塗一些</li>
       <li>表皮可用190度多烘烤10分鐘使表面不易黏在紙上</li>
     </ol>
+    <h3>B 大理石蛋糕</h3>
+    <ul>
+      <li>黑白麵糊不可過度拌勻</li>
+      <li>約考15分鐘後可割線</li>
+    </ul>
+    <p>大理石蛋糕是天使題目，遇到要好好把握</p>
     <h3>Countries with Small Brown Bear Populations</h3>
     <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
   </div>
