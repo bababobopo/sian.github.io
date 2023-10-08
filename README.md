@@ -2,7 +2,7 @@
 <body>
   <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
   <nav>
-    <a href="./README.md">烘焙丙級西點蛋糕項目//</a>
+    <a href="/README.md">烘焙丙級西點蛋糕項目//</a>
     <a href="./nunber2.md">簡介//</a>
     <a href="./2.md">測驗項目、題目組合//</a>
     <a href="./3.md">各項製作心得//</a>
