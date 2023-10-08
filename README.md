@@ -1,5 +1,3 @@
-
-
 <html>
 <body>
   <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
