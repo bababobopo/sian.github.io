@@ -5,7 +5,7 @@
 <body>
   <nav>
     <a href="./README.md">Brown Bear</a>
-    <a href="./number2.md">About Me</a>
+    <a href="./nunber2.md">About Me</a>
   </nav>
   <h1>The Brown Bear</h1>
   <nav>
