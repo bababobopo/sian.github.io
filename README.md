@@ -4,7 +4,7 @@
 <body>
   <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
   <nav>
-    <a href="./README.md">Brown Bear</a>
+    <a href="./README.md">烘焙丙級西點蛋糕項目</a>
     <a href="./nunber2.md">About Me</a>
   </nav>
   <h1>我愛做甜點</h1>
@@ -12,7 +12,7 @@
   <nav>
     <ul>
       <li><a href="#簡介">簡介</a></li>
-      <li><a href="#測驗項目">測驗項目</a></li>
+      <li><a href="#測驗項目、題目組合">測驗項目</a></li>
       <li><a href="#製作注意事項">各項製作心得</a></li>
       <li><a href="#相關連結">相關連結</a></li>
     </ul>
@@ -85,8 +85,9 @@
   </div>
   <div id="相關連結">
     <h2>相關連結</h2>
-    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" />
-    <video src="https://www.youtube.com/watch?v=6d9v-5vCBl4&list=PL9fxZ32hgqSc20hBGWTiONcGmAa1SyCzB&index=5" height="240" width="320" controls>Video not supported</video>
+    <img src="https://i.ytimg.com/vi/sqyjWSaJF5g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmmcWo2uBbzhRtIv0_zH5Lpf1E0w" />
+    <a href="https://www.pressplay.cc/project/7CDADD646D861A2BFB42BE457FCB4078/articles/EE8009B504F089CDF423FB495F6A8E08" target="_blank">厭世甜點店__空前挫敗 新手運用完了！？泡芙 奶油空心餅 烘焙丙級</a>
+    
   </div>
 </body>
 
